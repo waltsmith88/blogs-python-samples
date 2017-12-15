@@ -10,3 +10,8 @@ funny and useful python-samples in blogs
    blog: Python初识--基础
    URL1: http://blog.csdn.net/chengcheng95588/article/details/78786234
    URL2: http://www.cnblogs.com/waltsmith/p/8034876.html
+
+3. file: 20 methods of creating ndarrary in Python with NumPy.ipynb
+   blogs:Python中创建ndarrary的20中方法
+   URL1:http://blog.csdn.net/chengcheng95588/article/details/78816399
+   URL2:http://www.cnblogs.com/waltsmith/p/8044726.html
