@@ -15,3 +15,7 @@ funny and useful python-samples in blogs
    blogs:Python中创建ndarrary的20中方法
    URL1:http://blog.csdn.net/chengcheng95588/article/details/78816399
    URL2:http://www.cnblogs.com/waltsmith/p/8044726.html
+
+4. file: Python-if-else.ipynb
+	讲解python中的条件语句 if...else...，涉及单个 if、 elif、 else及其嵌套，最后讲解 if的巧妙用法--类“三目运算符”。
+	
